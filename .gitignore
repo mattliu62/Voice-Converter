@@ -1,0 +1,5 @@
+/.env
+/db
+/output.wav
+/voice.wav
+/windows-cpu
